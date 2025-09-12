@@ -1,21 +1,23 @@
 # Hi, I'm Leonardo Merlo 👋
 
-Transitioning from HR leadership to Fullstack Development | Building modern web applications with **React, Node.js, TypeScript & TailwindCSS** | Passionate about creating meaningful software
+Junior Fullstack Developer | Building modern web applications with React, Node.js, TypeScript & TailwindCSS
 
 ---
 
 ## About Me
 
-- 🚀 Former HR leader turned developer, bringing strategic thinking and problem-solving from people management to tech
-- 💻 Focused on Fullstack Web Development with hands-on experience in building interactive, scalable applications
-- 📚 Lifelong learner, constantly exploring **TypeScript, Next.js, NestJS, Jest, and modern front-end frameworks**
-- 🌱 Currently building projects that combine **efficiency, usability, and aesthetic design**  
+After years recruiting tech talent, I transitioned from HR leadership to software development, bringing strategic thinking and problem-solving skills to coding.  
+
+- 💻 Focused on Fullstack Web Development, building practical, clean, and efficient applications  
+- 🎯 Goal-oriented and detail-driven, always seeking ways to improve both code and process  
+- 🌐 Open to remote opportunities worldwide
+- 🌍 Languages: Fluent in Portuguese, English and Spanish  
 
 ---
 
 ## Tech Stack
 
-These are the technologies I use most:
+Technologies I work with:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -24,36 +26,39 @@ These are the technologies I use most:
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
-## Currently Learning / Exploring
+## Currently Learning
 
-- **Next.js** – Server-side rendering and modern front-end patterns
-- **NestJS** – Scalable and maintainable backend architecture
-- **Jest & Testing** – Ensuring code reliability with automated tests
-- **Advanced TypeScript Patterns** – Types, generics, and utility types
-- **CI/CD workflows & Deployment** – Modern development pipelines
+Technologies and tools I'm actively exploring:
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-Most of my projects are **pinned** on my GitHub, but here are some highlights:
+Some highlights from my GitHub (**all pinned**):
 
-- **[AI-Personal-Chef](https://github.com/leonardo-merlo/AI-Personal-Chef)** – AI-driven recipe generator (TypeScript, Node.js)
-- **[APIs-Ecommerce-Backend](https://github.com/leonardo-merlo/APIs-Ecommerce-Backend)** – Full-featured e-commerce backend with CRUD for products, customers & orders (TypeScript, Node.js)
-- **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS)
-- **[Digital-Library-Frontend](https://github.com/leonardo-merlo/Digital-Library-Frontend)** – Web app for managing digital library content (React, JavaScript)
+- **[AI-Personal-Chef](https://github.com/leonardo-merlo/AI-Personal-Chef)** – AI-powered personalized recipe generator (TypeScript, Node.js)  
+- **[APIs-Ecommerce-Backend](https://github.com/leonardo-merlo/APIs-Ecommerce-Backend)** – Full-featured e-commerce backend with CRUD for products, customers & orders (TypeScript, Node.js)  
+- **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS)  
+- **[Digital-Library-Frontend](https://github.com/leonardo-merlo/Digital-Library-Frontend)** – Web app for managing digital library content (React, JavaScript)  
 
 ---
 
 ## Contact
 
-- 🌐 Portfolio: [portfolio-leonardo-merlo.netlify.app](https://portfolio-leonardo-merlo.netlify.app)
-- ✉️ Email: leomamerlo@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/leonardo-merlo-4258a410a](https://www.linkedin.com/in/leonardo-merlo-4258a410a)
+- 🌐 Portfolio: [portfolio-leonardo-merlo.netlify.app](https://portfolio-leonardo-merlo.netlify.app)  
+- ✉️ Email: leomamerlo@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/leonardo-merlo-4258a410a](https://www.linkedin.com/in/leonardo-merlo-4258a410a)  
 
 ---
 
-> 💡 I aim to leverage my strategic mindset from HR and my passion for technology to build software that solves real problems and delivers seamless user experiences.
+> 💡 I aim to leverage my strategic mindset from HR and my passion for learning to create software that is practical, maintainable, and solves real problems.
