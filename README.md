@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo Merlo 👋
 
-Junior Fullstack Developer | Building modern web applications with React, Node.js, TypeScript & TailwindCSS
+Junior Fullstack Developer | Building modern web applications with React, Node.js and TypeScript | 🌐 Open to remote opportunities worldwide
 
 ---
 
@@ -10,7 +10,6 @@ After years recruiting tech talent, I transitioned from HR leadership to softwar
 
 - 💻 Focused on Fullstack Web Development, building practical, clean, and efficient applications  
 - 🎯 Goal-oriented and detail-driven, always seeking ways to improve both code and process  
-- 🌐 Open to remote opportunities worldwide
 - 🌍 Languages: Fluent in Portuguese, English and Spanish  
 
 ---
@@ -50,6 +49,13 @@ Some highlights from my GitHub (**all pinned**):
 - **[APIs-Ecommerce-Backend](https://github.com/leonardo-merlo/APIs-Ecommerce-Backend)** – Full-featured e-commerce backend with CRUD for products, customers & orders (TypeScript, Node.js)  
 - **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS)  
 - **[Digital-Library-Frontend](https://github.com/leonardo-merlo/Digital-Library-Frontend)** – Web app for managing digital library content (React, JavaScript)  
+
+---
+
+## GitHub Stats
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-merlo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-merlo&layout=compact&theme=radical)
 
 ---
 
