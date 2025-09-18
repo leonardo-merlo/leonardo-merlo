@@ -52,13 +52,6 @@ Some highlights from my GitHub (**all pinned**):
 
 ---
 
-## GitHub Stats
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-merlo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-merlo&layout=compact&theme=radical)
-
----
-
 ## Contact
 
 - 🌐 Portfolio: [portfolio-leonardo-merlo.netlify.app](https://portfolio-leonardo-merlo.netlify.app)  
