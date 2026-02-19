@@ -45,6 +45,7 @@ Technologies and tools I'm actively exploring:
 
 Some highlights from my GitHub (**all pinned**):
 
+- **[Live-Like-a-Local](https://github.com/leonardo-merlo/Live-Like-a-Local)** – AI-assistant for travel suggestions (Python)  
 - **[AI-Personal-Chef](https://github.com/leonardo-merlo/AI-Personal-Chef)** – AI-powered personalized recipe generator (TypeScript, Node.js)  
 - **[APIs-Ecommerce-Backend](https://github.com/leonardo-merlo/APIs-Ecommerce-Backend)** – Full-featured e-commerce backend with CRUD for products, customers & orders (TypeScript, Node.js)  
 - **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS)  
