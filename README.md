@@ -34,7 +34,6 @@ Technologies I work with:
 
 Technologies and tools I'm actively exploring:
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -46,8 +45,8 @@ Technologies and tools I'm actively exploring:
 Some highlights from my GitHub (**all pinned**):
 
 - **[Live-Like-a-Local](https://github.com/leonardo-merlo/Live-Like-a-Local)** – AI-assistant for travel suggestions (Python)  
-- **[AI-Personal-Chef](https://github.com/leonardo-merlo/AI-Personal-Chef)** – AI-powered personalized recipe generator (TypeScript, Node.js)  
-- **[APIs-Ecommerce-Backend](https://github.com/leonardo-merlo/APIs-Ecommerce-Backend)** – Full-featured e-commerce backend with CRUD for products, customers & orders (TypeScript, Node.js)  
+- **[AI-Personal-Chef](https://github.com/leonardo-merlo/AI-Personal-Chef)** – AI-powered personalized recipe generator (TypeScript, Node.js)
+- **[Recipe-Manager](https://github.com/leonardo-merlo/Recipe-Manager)** – Web app that helps busy people stay organized with weekly meal planning.
 - **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS)  
 - **[Digital-Library-Frontend](https://github.com/leonardo-merlo/Digital-Library-Frontend)** – Web app for managing digital library content (React, JavaScript)  
 
