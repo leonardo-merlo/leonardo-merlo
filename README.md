@@ -44,10 +44,10 @@ Technologies and tools I'm actively exploring:
 
 Some highlights from my GitHub (**all pinned**):
 
-- **[Live-Like-a-Local](https://github.com/leonardo-merlo/Live-Like-a-Local)** – AI-assistant for travel suggestions (Python). **[Abrir app](https://live-like-a-local-frontend.onrender.com/)**
-- **[Recipe-Manager](https://github.com/leonardo-merlo/Recipe-Manager)** – Web app that helps busy people stay organized with weekly meal planning. (Javascript, React, Node, Express). **[Abrir app](https://recipe-manager-leonardomerlo.netlify.app/)**
-- **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS). **[Abrir app](https://task-manager-leonardomerlo.netlify.app/)**
-- **[Digital-Library-Frontend](https://github.com/leonardo-merlo/Digital-Library-Frontend)** – Web app for managing digital library content (React, JavaScript). **[Abrir app](https://digital-library-leonardomerlo.netlify.app/ )**
+- **[Live-Like-a-Local](https://github.com/leonardo-merlo/Live-Like-a-Local)** – AI-assistant for travel suggestions (Python). **[Open app](https://live-like-a-local-frontend.onrender.com/)**
+- **[Recipe-Manager](https://github.com/leonardo-merlo/Recipe-Manager)** – Web app that helps busy people stay organized with weekly meal planning. (Javascript, React, Node, Express). **[Open app](https://recipe-manager-leonardomerlo.netlify.app/)**
+- **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS). **[Open app](https://task-manager-leonardomerlo.netlify.app/)**
+- **[Digital-Library-Frontend](https://github.com/leonardo-merlo/Digital-Library-Frontend)** – Web app for managing digital library content (React, JavaScript). **[Open app](https://digital-library-leonardomerlo.netlify.app/ )**
 
 ---
 
