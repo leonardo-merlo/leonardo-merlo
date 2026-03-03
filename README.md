@@ -45,7 +45,7 @@ Technologies and tools I'm actively exploring:
 Some highlights from my GitHub (**all pinned**):
 
 - **[Live-Like-a-Local](https://github.com/leonardo-merlo/Live-Like-a-Local)** – AI-assistant for travel suggestions (Python)  
-- **[Recipe-Manager](https://github.com/leonardo-merlo/Recipe-Manager)** – Web app that helps busy people stay organized with weekly meal planning.
+- **[Recipe-Manager](https://github.com/leonardo-merlo/Recipe-Manager)** – Web app that helps busy people stay organized with weekly meal planning. (Javascript, React, Node, NestJS)
 - **[Task-Manager](https://github.com/leonardo-merlo/Task-Manager)** – Interactive task management app with modern UI & drag-and-drop (React, CSS)  
 - **[Digital-Library-Frontend](https://github.com/leonardo-merlo/Digital-Library-Frontend)** – Web app for managing digital library content (React, JavaScript)  
 
